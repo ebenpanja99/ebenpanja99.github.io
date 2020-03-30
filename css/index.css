@@ -1,0 +1,39 @@
+ img {
+     height: 150px;
+     width: 150px;
+     border-radius: 100%;
+
+
+ }
+
+ .contact {
+     background: rgb(154, 157, 160);
+     height: 700px;
+ }
+
+ .about {
+     height: 700px;
+ }
+
+ .jumbotron {
+     height: 700px;
+ }
+
+
+
+
+ @media(min-width:600px) {
+     img {
+         height: 250px;
+         width: 250px;
+
+     }
+
+
+     section {
+         min-height: 429px;
+     }
+
+
+
+ }
